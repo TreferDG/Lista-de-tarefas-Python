@@ -1,13 +1,29 @@
-# Lista-de-tarefas-Python
-Projeto simples em Python para gerenciar tarefas pelo terminal.
+# ✅ Lista de Tarefas em Python (To-Do List)
 
-## Funcionalidades
-- Adicionar tarefas
-- Listar tarefas
-- Marcar tarefas como concluídas
-- Remover tarefas
-- Salvar tarefas em arquivo JSON
+Projeto simples e funcional desenvolvido em **Python**, com o objetivo de praticar lógica de programação, estruturas de repetição e manipulação de arquivos.
 
-## Como executar
-```bash
-python main.py
+O programa funciona diretamente no terminal e permite ao usuário gerenciar tarefas do dia a dia, salvando automaticamente as informações em um arquivo JSON.
+
+---
+
+## 🚀 Funcionalidades
+
+✅ Adicionar tarefas  
+📋 Listar todas as tarefas cadastradas  
+✔ Marcar tarefas como concluídas  
+🗑 Remover tarefas  
+💾 Salvar e carregar tarefas automaticamente usando arquivo `.json`
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **Python 3**
+- Biblioteca padrão **json**
+- Manipulação de arquivos (`open`, `read`, `write`)
+
+---
+
+## 📂 Estrutura do Projeto
+
+
