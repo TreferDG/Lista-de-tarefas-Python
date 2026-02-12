@@ -22,8 +22,6 @@ O programa funciona diretamente no terminal e permite ao usuário gerenciar tare
 - Biblioteca padrão **json**
 - Manipulação de arquivos (`open`, `read`, `write`)
 
----
 
-## 📂 Estrutura do Projeto
 
 
