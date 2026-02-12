@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Fazer um conversor de Moedas",
+        "concluida": false
+    },
+    {
+        "nome": "Fazer um sistema de Cadastro (CRUD simples)",
+        "concluida": false
+    },
+    {
+        "nome": "Fazer uma lista de tarefas",
+        "concluida": true
+    },
+    {
+        "nome": "Fazer um Sistema de Controle Financeiro Pessoal",
+        "concluida": false
+    },
+    {
+        "nome": "Fazer um Escolha do Chapéu Seletor",
+        "concluida": true
+    }
+]
